@@ -1,0 +1,4605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <bikeAddr>서동역3번출구 뒷편</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 393-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 서동 208-39</parcelAddr>
+    <lat>35.2134313</lat>
+    <lon>129.107694</lon>
+    <conBike>5</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서동역 4번출구 뒷편</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 396</roadAddr>
+    <parcelAddr>부산광역시 금정구 서동 238-63</parcelAddr>
+    <lat>35.213145</lat>
+    <lon>129.1076011</lon>
+    <conBike>5</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서동도서관 내</bikeAddr>
+    <roadAddr>부산광역시 금정구 서부로76번길 5</roadAddr>
+    <parcelAddr>부산광역시 금정구 서동 150-73</parcelAddr>
+    <lat>35.219825</lat>
+    <lon>129.099389</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금사역 1번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 469</roadAddr>
+    <parcelAddr>부산광역시 금정구 금사동 110-10</parcelAddr>
+    <lat>35.215855</lat>
+    <lon>129.115296</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금사역 2번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 469</roadAddr>
+    <parcelAddr>부산광역시 금정구 금사동 110-10</parcelAddr>
+    <lat>35.215855</lat>
+    <lon>129.115296</lon>
+    <conBike>5</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금사역 3번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 469</roadAddr>
+    <parcelAddr>부산광역시 금정구 금사동 110-10</parcelAddr>
+    <lat>35.215855</lat>
+    <lon>129.115296</lon>
+    <conBike>5</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금사동 자동차매매단지 맞은편</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 436</roadAddr>
+    <parcelAddr>부산광역시 금정구 금사동 144-2</parcelAddr>
+    <lat>35.214412</lat>
+    <lon>129.111613</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동천로 13㈜대성 앞 수영강변(체육공원)</bikeAddr>
+    <roadAddr>부산광역시 금정구 동천로 13</roadAddr>
+    <parcelAddr>부산광역시 금정구 회동동 151-4</parcelAddr>
+    <lat>35.2271325</lat>
+    <lon>129.121082</lon>
+    <conBike>20</conBike>
+    <inYear>2013</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>수영강변 동천교 밑</bikeAddr>
+    <roadAddr>부산광역시 금정구 사천로3번길 22</roadAddr>
+    <parcelAddr>부산광역시 금정구 금사동 14-30</parcelAddr>
+    <lat>35.217038</lat>
+    <lon>129.118085</lon>
+    <conBike>10</conBike>
+    <inYear>2014</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정구청 의회동 앞</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1777</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 78</parcelAddr>
+    <lat>35.243075</lat>
+    <lon>129.092477</lon>
+    <conBike>40</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정구보건소 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1766</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 24-1</parcelAddr>
+    <lat>35.242001</lat>
+    <lon>129.092779</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정구보건소 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1766</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 24-1</parcelAddr>
+    <lat>35.242001</lat>
+    <lon>129.092779</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡동 부곡교 아래</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 65-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 65-1</parcelAddr>
+    <lat>35.242031</lat>
+    <lon>129.089952</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡동 부산일보 앞 부곡교 아래</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 65-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 65-1</parcelAddr>
+    <lat>35.242031</lat>
+    <lon>129.089952</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡동 캄스정비 옆</bikeAddr>
+    <roadAddr>부산광역시 금정구 수림로 34</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 65-15</parcelAddr>
+    <lat>35.239877</lat>
+    <lon>129.088251</lon>
+    <conBike>10</conBike>
+    <inYear>2013</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡동 금정세무서 앞</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1636</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 266-5</parcelAddr>
+    <lat>35.230166</lat>
+    <lon>129.091897</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡동 우신아파트 온천천변 부근</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전동 366-14</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 366-14</parcelAddr>
+    <lat>35.233791</lat>
+    <lon>129.089785</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천장역 북측공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 오시게로54번길 1</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 389-3</parcelAddr>
+    <lat>35.222034</lat>
+    <lon>129.087545</lon>
+    <conBike>10</conBike>
+    <inYear>2004</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천장역 북측공영주차장 밑</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 926-11</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 926-11</parcelAddr>
+    <lat>35.222034</lat>
+    <lon>129.087545</lon>
+    <conBike>20</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡2등 새마을꽃동산</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1646</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 248-3</parcelAddr>
+    <lat>35.231363</lat>
+    <lon>129.091682</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천장역 북측공영주차장 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 866-45</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 866-45</parcelAddr>
+    <lat>35.221112</lat>
+    <lon>129.087028</lon>
+    <conBike>20</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천장역 북측공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 866-45</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 866-45</parcelAddr>
+    <lat>35.221112</lat>
+    <lon>129.087028</lon>
+    <conBike>20</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천장역 북측공영주차장 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 866-45</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 866-45</parcelAddr>
+    <lat>35.221112</lat>
+    <lon>129.087028</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천장역 북측공영주차장 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡동 866-45</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 866-45</parcelAddr>
+    <lat>35.221112</lat>
+    <lon>129.087028</lon>
+    <conBike>30</conBike>
+    <inYear>2004</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡동 동현중학교 앞</bikeAddr>
+    <roadAddr>부산광역시 금정구 서동로 52</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 767-94</parcelAddr>
+    <lat>35.218642</lat>
+    <lon>129.0929663</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부곡3동 오륜취수장 정문 초소 안쪽</bikeAddr>
+    <roadAddr>부산광역시 금정구 오륜동 668-2</roadAddr>
+    <parcelAddr>부산광역시 금정구 오륜동 668-2</parcelAddr>
+    <lat>35.248091</lat>
+    <lon>129.103446</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>장전2동주민센터 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 오륜동 668-2</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 493-2</parcelAddr>
+    <lat>35.227802</lat>
+    <lon>129.081225</lon>
+    <conBike>5</conBike>
+    <inYear>2006</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대학교 정문 우측</bikeAddr>
+    <roadAddr>부산광역시 금정구 오륜동 668-2</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 402-6</parcelAddr>
+    <lat>35.231622</lat>
+    <lon>129.084338</lon>
+    <conBike>20</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대학교 정문 좌측</bikeAddr>
+    <roadAddr>부산광역시 금정구 오륜동 668-2</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 400-51</parcelAddr>
+    <lat>35.231546</lat>
+    <lon>129.084225</lon>
+    <conBike>20</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대학교 북문 현대아파트 후문 주변</bikeAddr>
+    <roadAddr>부산광역시 금정구 오륜동 668-2</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 269-18</parcelAddr>
+    <lat>35.235466</lat>
+    <lon>129.083055</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서동역 주변 육교밑</bikeAddr>
+    <roadAddr>부산광역시 금정구 반송로 375</roadAddr>
+    <parcelAddr>부산광역시 금정구 서동 237-9</parcelAddr>
+    <lat>35.212032</lat>
+    <lon>129.106478</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>장전동역 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정로 159-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 211-11</parcelAddr>
+    <lat>35.239058</lat>
+    <lon>129.088018</lon>
+    <conBike>32</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>장전동역 1번출구 우측</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정로 144</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 227</parcelAddr>
+    <lat>35.237329</lat>
+    <lon>129.088177</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>장전역 1번출구 좌측</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정로 144</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 227</parcelAddr>
+    <lat>35.237329</lat>
+    <lon>129.088177</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>장전동역 4번출구 밑 온천천변</bikeAddr>
+    <roadAddr>부산광역시 금정구 부곡온천천로 140</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 224-54</parcelAddr>
+    <lat>35.238525</lat>
+    <lon>129.088421</lon>
+    <conBike>30</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 북측공영주차장(동쪽)</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 48</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 427</parcelAddr>
+    <lat>35.231841</lat>
+    <lon>129.089255</lon>
+    <conBike>10</conBike>
+    <inYear>2004</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 북측공영주차장(서쪽)</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 77-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 412-10</parcelAddr>
+    <lat>35.231893</lat>
+    <lon>129.088857</lon>
+    <conBike>10</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 3번 출구 밑 온천천변</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 59</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 643-8</parcelAddr>
+    <lat>35.230326</lat>
+    <lon>129.089131</lon>
+    <conBike>20</conBike>
+    <inYear>2015</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 4번출구 밑 온천천변</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로1629번길 26</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 267-75</parcelAddr>
+    <lat>35.230356</lat>
+    <lon>129.089424</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 4번출구 밑 온천천변</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로1629번길 26</roadAddr>
+    <parcelAddr>부산광역시 금정구 부곡동 267-75</parcelAddr>
+    <lat>35.230356</lat>
+    <lon>129.089424</lon>
+    <conBike>20</conBike>
+    <inYear>2014</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 남측공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 47</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 643-2</parcelAddr>
+    <lat>35.228592</lat>
+    <lon>129.089158</lon>
+    <conBike>20</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 남측공영주차장 옆</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 47</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 643-3</parcelAddr>
+    <lat>35.228873</lat>
+    <lon>129.089342</lon>
+    <conBike>20</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산대역 남측공영주차장 옆</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 47</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 643-2</parcelAddr>
+    <lat>35.228592</lat>
+    <lon>129.089158</lon>
+    <conBike>30</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>장전역~부산대역 온천천변 농구장</bikeAddr>
+    <roadAddr>부산광역시 금정구 장전온천천로 109-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 장전동 364-28</parcelAddr>
+    <lat>35.2348394</lat>
+    <lon>129.089086</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서동 성일교회 앞 체육시설 내</bikeAddr>
+    <roadAddr>부산광역시 금정구 구서온천천로 23</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 467-13</parcelAddr>
+    <lat>35.241748</lat>
+    <lon>129.089064</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서역 금정교 주변</bikeAddr>
+    <roadAddr>부산광역시 금정구 구서동 445-36</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 445-36</parcelAddr>
+    <lat>35.244149</lat>
+    <lon>129.090841</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정경찰서 사거리</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1815</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 84-16</parcelAddr>
+    <lat>35.246111</lat>
+    <lon>129.092673</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서역 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정로233번길 39</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 415-112</parcelAddr>
+    <lat>35.246383</lat>
+    <lon>129.091076</lon>
+    <conBike>20</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서역 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정로233번길 39</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 415-112</parcelAddr>
+    <lat>35.246383</lat>
+    <lon>129.091076</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서역 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정로233번길 39</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 415-112</parcelAddr>
+    <lat>35.246383</lat>
+    <lon>129.091076</lon>
+    <conBike>40</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서동 유림아파트앞 육교 밑</bikeAddr>
+    <roadAddr>부산광역시 금정구 구서동 420-34</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 420-34</parcelAddr>
+    <lat>35.244665</lat>
+    <lon>129.093006</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정문화회관 육교 밑</bikeAddr>
+    <roadAddr>부산광역시 금정구 구서동 420-33</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 420-33</parcelAddr>
+    <lat>35.245023</lat>
+    <lon>129.093372</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>이마트 후문앞 버스정류소 옆</bikeAddr>
+    <roadAddr>부산광역시 금정구 구서동 955-9</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 955-9</parcelAddr>
+    <lat>35.250386</lat>
+    <lon>129.091472</lon>
+    <conBike>20</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>두실역 1번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1927</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 184-15</parcelAddr>
+    <lat>35.256299</lat>
+    <lon>129.091276</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>두실역 8번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1942</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 177-1</parcelAddr>
+    <lat>35.257698</lat>
+    <lon>129.091464</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>구서동 구서공영화물주차장 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 1826번길 64</roadAddr>
+    <parcelAddr>부산광역시 금정구 구서동 88-39</parcelAddr>
+    <lat>35.250043</lat>
+    <lon>129.095421</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남산농협 앞 남산동새벽시장</bikeAddr>
+    <roadAddr>부산광역시 금정구 금강로 709번길 5</roadAddr>
+    <parcelAddr>부산광역시 금정구 남산동 321-1</parcelAddr>
+    <lat>35.270632</lat>
+    <lon>129.089134</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남산동역 5번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 2033</roadAddr>
+    <parcelAddr>부산광역시 금정구 남산동 117-15</parcelAddr>
+    <lat>35.265654</lat>
+    <lon>129.092347</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남산동역 8번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 남산동 248-2</roadAddr>
+    <parcelAddr>부산광역시 금정구 남산동 248-2</parcelAddr>
+    <lat>35.2658904</lat>
+    <lon>129.092727</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남산동역 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 2022-1</roadAddr>
+    <parcelAddr>부산광역시 금정구 남산동 231-3</parcelAddr>
+    <lat>35.264849</lat>
+    <lon>129.092787</lon>
+    <conBike>7</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범어사역 1번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 11-3</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 11-3</parcelAddr>
+    <lat>35.272387</lat>
+    <lon>129.092518</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범어사역 1번출구 부산은행 앞</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 11-3</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 11-3</parcelAddr>
+    <lat>35.272365</lat>
+    <lon>129.092563</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범어사역 4번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 2107</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 47</parcelAddr>
+    <lat>35.272845</lat>
+    <lon>129.092374</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범어사역 5번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 24-13</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 24-13</parcelAddr>
+    <lat>35.273627</lat>
+    <lon>129.092547</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범어사역 5번출구</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 24-13</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 24-13</parcelAddr>
+    <lat>35.273627</lat>
+    <lon>129.092547</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정도서관내 주차장 안쪽</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정도서관로 33</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 산30</parcelAddr>
+    <lat>35.272458</lat>
+    <lon>129.096204</lon>
+    <conBike>20</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범어사매표소 계단 아래</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 431</roadAddr>
+    <parcelAddr>부산광역시 금정구 청룡동 431</parcelAddr>
+    <lat>35.283336</lat>
+    <lon>129.072831</lon>
+    <conBike>10</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>선두구동 상현마을 3버마을버스 종점</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 431</roadAddr>
+    <parcelAddr>부산광역시 금정구 선동 341-5</parcelAddr>
+    <lat>35.266616</lat>
+    <lon>129.111653</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>선두구공 신천교 아래</bikeAddr>
+    <roadAddr>부산광역시 금정구 청룡동 431</roadAddr>
+    <parcelAddr>부산광역시 금정구 선동 605-13</parcelAddr>
+    <lat>35.2780917</lat>
+    <lon>129.108734</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>영락공완사무소 입구 밑</bikeAddr>
+    <roadAddr>부산광역시 금정구 금정도서관로 108</roadAddr>
+    <parcelAddr>부산광역시 금정구 두구동 1494</parcelAddr>
+    <lat>35.273808</lat>
+    <lon>129.103099</lon>
+    <conBike>20</conBike>
+    <inYear>2010</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>두구동 목욕탕 앞</bikeAddr>
+    <roadAddr>부산광역시 금정구 두구동 601-39</roadAddr>
+    <parcelAddr>부산광역시 금정구 두구동 601-39</parcelAddr>
+    <lat>35.287711</lat>
+    <lon>129.108702</lon>
+    <conBike>20</conBike>
+    <inYear>2013</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>금정경륜장 주출입구 좌측</bikeAddr>
+    <roadAddr>부산광역시 금정구 두구동 1402-22</roadAddr>
+    <parcelAddr>부산광역시 금정구 두구동 1402-22</parcelAddr>
+    <lat>35.291293</lat>
+    <lon>129.102883</lon>
+    <conBike>72</conBike>
+    <inYear>2006</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>노포역 입구</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 2238</roadAddr>
+    <parcelAddr>부산광역시 금정구 노포동 180-1</parcelAddr>
+    <lat>35.285249</lat>
+    <lon>129.095126</lon>
+    <conBike>30</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>노포동버스터미널 북측</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 2238</roadAddr>
+    <parcelAddr>부산광역시 금정구 노포동 180-1</parcelAddr>
+    <lat>35.285249</lat>
+    <lon>129.095126</lon>
+    <conBike>14</conBike>
+    <inYear>2009</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>노포동버스터미널 북측</bikeAddr>
+    <roadAddr>부산광역시 금정구 중앙대로 2238</roadAddr>
+    <parcelAddr>부산광역시 금정구 노포동 180-1</parcelAddr>
+    <lat>35.285249</lat>
+    <lon>129.095126</lon>
+    <conBike>35</conBike>
+    <inYear>2008</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-519-4553</managerTel>
+    <manager>부산광역시 금정구청</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동구청사 내</bikeAddr>
+    <roadAddr>부산광역시 동구 구청로 1(수정동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.128282</lat>
+    <lon>129.045654</lon>
+    <conBike>22</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>초량동 정발장군 동상 앞 공영주차장 옆</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로 267(초량동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.114720</lat>
+    <lon>129.039677</lon>
+    <conBike>22</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산역광장</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로196번길?12 (초량동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.120855</lat>
+    <lon>129.042276</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 부산역 지하상가 출입구</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로 200</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.115343</lat>
+    <lon>129.041418</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>초량3동 일본영사관 후문</bikeAddr>
+    <roadAddr>부산광역시 동구 고관로?18 (초량동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.115406</lat>
+    <lon>129.041385</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 초량역 10번 출입구</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로?지하?264 (초량동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.123678</lat>
+    <lon>129.045642</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>수정2동 부산진역 횡단보도 옆</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로 459-3</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.135034</lat>
+    <lon>129.054235</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 부산진역 3번 출입구</bikeAddr>
+    <roadAddr>부산광역시 동구 범일이길20번길?34 (범일동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.140267</lat>
+    <lon>129.057799</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 좌천역 7번 출입구</bikeAddr>
+    <roadAddr>부산광역시 동구 충장대로?255 (초량동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.125570</lat>
+    <lon>129.049565</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동구도서관</bikeAddr>
+    <roadAddr>부산광역시 동구 성북로36번길?54 (범일동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.138422</lat>
+    <lon>129.052497</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일5동주민센터 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 성남로47번길?13 (좌천동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.138422</lat>
+    <lon>129.052497</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 좌천역 2번 출입구 위</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로 446</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.130539</lat>
+    <lon>129.053790</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일1동 한성기린아파트 입구</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로?514 (범일동, 한성기린프라자)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.139139</lat>
+    <lon>129.056963</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>안용복 기념 부산포 개항문화관(독도주차장)</bikeAddr>
+    <roadAddr>부산광역시 동구 성남로29번나길?4 (좌천동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.135388</lat>
+    <lon>129.052772</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>수정산가족체육공원 공영주차장 내</bikeAddr>
+    <roadAddr>부산광역시 동구 수정공원로 63</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.132616</lat>
+    <lon>129.038500</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>좌천동 봉생병원 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로?401 (좌천동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.131092</lat>
+    <lon>129.050407</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일2동 부산은행 범일동지점 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 범일로 92</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.138303</lat>
+    <lon>129.059805</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일2동 조신통신사 박물관 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 자성로 99</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.136064</lat>
+    <lon>129.061351</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일4동 부산은행 범천동지점 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로 541</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.141544</lat>
+    <lon>129.055828</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일2동 하나은행 범일동지점 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 조방로 43</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.140453</lat>
+    <lon>129.060341</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>수정2동 동부경찰서 앞</bikeAddr>
+    <roadAddr>부산광역시 동구 중앙대로?387 (수정동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.130027</lat>
+    <lon>129.049153</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일2동 성남초등학교 후문</bikeAddr>
+    <roadAddr>부산광역시 동구 범일로53번길?14 (범일동</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.135027</lat>
+    <lon>129.058221</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일2동 자성대공원 서문 입구</bikeAddr>
+    <roadAddr>부산광역시 동구 자성로?99 (범일동)</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.136064</lat>
+    <lon>129.061308</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-440-4554</managerTel>
+    <manager>부산광역시 동구</manager>
+    <pubdata>2016-09-28</pubdata>
+  </row>
+  <row>
+    <bikeAddr>중앙동</bikeAddr>
+    <roadAddr>부산광역시 중구 중앙대로 2</roadAddr>
+    <parcelAddr>부산광역시 중구 중앙동7가 20-1</parcelAddr>
+    <lat>35.096715</lat>
+    <lon>129.0367482</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>광복동</bikeAddr>
+    <roadAddr>부산광역시 중구 구덕로 4</roadAddr>
+    <parcelAddr>부산광역시 중구 광복동1가 37-1</parcelAddr>
+    <lat>35.098308</lat>
+    <lon>129.0351451</lon>
+    <conBike>10</conBike>
+    <inYear>2008</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>광복동</bikeAddr>
+    <roadAddr>부산광역시 중구 광복로 78-1</roadAddr>
+    <parcelAddr>부산광역시 중구 광복동2가 31-2</parcelAddr>
+    <lat>35.098385</lat>
+    <lon>129.033298</lon>
+    <conBike>10</conBike>
+    <inYear>2008</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>광복동</bikeAddr>
+    <roadAddr>부산광역시 중구 광복로 84</roadAddr>
+    <parcelAddr>부산광역시 중구 광복로1가 53</parcelAddr>
+    <lat>35.0983463</lat>
+    <lon>129.0340236</lon>
+    <conBike>10</conBike>
+    <inYear>2008</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부평동</bikeAddr>
+    <roadAddr>부산광역시 중구 흑교로 30</roadAddr>
+    <parcelAddr>부산광역시 중구 부평동2가 75-8</parcelAddr>
+    <lat>35.1021404</lat>
+    <lon>129.0254219</lon>
+    <conBike>10</conBike>
+    <inYear>2010</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>중앙동</bikeAddr>
+    <roadAddr>부산광역시 중구 중앙대로 2</roadAddr>
+    <parcelAddr>부산광역시 중구 중앙동7가 20-1</parcelAddr>
+    <lat>35.096715</lat>
+    <lon>129.0367482</lon>
+    <conBike>40</conBike>
+    <inYear>2012</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남포동</bikeAddr>
+    <roadAddr>부산광역시 중구 구덕로 33</roadAddr>
+    <parcelAddr>부산광역시 중구 남포동4가 15-3</parcelAddr>
+    <lat>35.0977038</lat>
+    <lon>129.0317802</lon>
+    <conBike>10</conBike>
+    <inYear>2016</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남포동</bikeAddr>
+    <roadAddr>부산광역시 중구 구덕로 5</roadAddr>
+    <parcelAddr>부산광역시 중구 남포동1가 51-4</parcelAddr>
+    <lat>35.097598</lat>
+    <lon>129.0351021</lon>
+    <conBike>7</conBike>
+    <inYear>2016</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>남포동</bikeAddr>
+    <roadAddr>부산광역시 중구 구덕로 3-1</roadAddr>
+    <parcelAddr>부산광역시 중구 남포동1가 25</parcelAddr>
+    <lat>35.0975872</lat>
+    <lon>129.0352018</lon>
+    <conBike>7</conBike>
+    <inYear>2016</inYear>
+    <inFit></inFit>
+    <managerTel>051-600-4554</managerTel>
+    <manager>부산광역시 중구청</manager>
+    <pubdata>2016-10-14</pubdata>
+  </row>
+  <row>
+    <bikeAddr>양정고</bikeAddr>
+    <roadAddr>부산광역시 부산진구 양정로46</roadAddr>
+    <parcelAddr>부산광역시 부산진구 양정1동  33-33</parcelAddr>
+    <lat>35.1694686</lat>
+    <lon>129.0739443</lon>
+    <conBike>1</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산진초</bikeAddr>
+    <roadAddr>부산광역시 부산진구 범천로30</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천동 890-1</parcelAddr>
+    <lat>35.1499593</lat>
+    <lon>129.0560691</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>개금골목시장 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로478</roadAddr>
+    <parcelAddr>부산광역시 부산진구 개금동 171-127</parcelAddr>
+    <lat>35.1528756</lat>
+    <lon>129.0243305</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동 의대역 3번 출구(E/V) 옆</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로554</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 221-2</parcelAddr>
+    <lat>35.1535969</lat>
+    <lon>129.0326928</lon>
+    <conBike>1</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>상공회의소</bikeAddr>
+    <roadAddr>부산광역시 부산진구 황령대로24</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천1동 853-1</parcelAddr>
+    <lat>35.1478869</lat>
+    <lon>129.0622681</lon>
+    <conBike>1</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>지오플레이스</bikeAddr>
+    <roadAddr>부산광역시 부산진구 동 천로4</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 892-20</parcelAddr>
+    <lat>35.1494535</lat>
+    <lon>129.0640137</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>교보문고</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로658</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범전동 536-3</parcelAddr>
+    <lat>35.1656947</lat>
+    <lon>129.0611714</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>양정지하철역 연제방향 영빈관</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로931</roadAddr>
+    <parcelAddr>부산광역시 부산진구 양정동 406-17</parcelAddr>
+    <lat>35.1732708</lat>
+    <lon>129.070971</lon>
+    <conBike>1</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>양정지하철역 월해한의원</bikeAddr>
+    <roadAddr>부산광역시 부산진구 연수로14</roadAddr>
+    <parcelAddr>부산광역시 부산진구 양정동 95-66</parcelAddr>
+    <lat>35.1733705</lat>
+    <lon>129.0728462</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>엔씨백화점 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 동천로92</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 668-1</parcelAddr>
+    <lat>35.1570356</lat>
+    <lon>129.0630291</lon>
+    <conBike>1</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부전역</bikeAddr>
+    <roadAddr>부산광역시 부산진구 부전로187-3</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 42-2</parcelAddr>
+    <lat>35.163914</lat>
+    <lon>129.061291</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부암역 4번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로727</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부암동 7066-11</parcelAddr>
+    <lat>35.1753203</lat>
+    <lon>129.0335394</lon>
+    <conBike>3</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>초읍어린이대공원 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 성지록로3</roadAddr>
+    <parcelAddr>부산광역시 부산진구 초읍동 43</parcelAddr>
+    <lat>35.1829938</lat>
+    <lon>129.0463494</lon>
+    <conBike>3</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>아이언시티 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 서면로74</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 257-3</parcelAddr>
+    <lat>35.1570047</lat>
+    <lon>129.0582203</lon>
+    <conBike>1</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>한화생명 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로659</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 535-5</parcelAddr>
+    <lat>35.1515394</lat>
+    <lon>129.058661</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사학연금매장 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 범일로181</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천동 877-2</parcelAddr>
+    <lat>35.146215</lat>
+    <lon>129.058851</lon>
+    <conBike>2</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>하나투어 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 새싹로4</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 260-36</parcelAddr>
+    <lat>35.1585103</lat>
+    <lon>129.0588029</lon>
+    <conBike>1</conBike>
+    <inYear>2010</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부암1동  SK텔레콤 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 신천대로258</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부암동 52-6</parcelAddr>
+    <lat>35.1649952</lat>
+    <lon>129.0507993</lon>
+    <conBike>2</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부전1동  신한은행 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 새싹로6</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 260-47</parcelAddr>
+    <lat>35.1587254</lat>
+    <lon>129.0587486</lon>
+    <conBike>1</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부전2동  피에스타 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로672</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 227-2</parcelAddr>
+    <lat>35.1530083</lat>
+    <lon>129.0596228</lon>
+    <conBike>1</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부전2동  상호저축은행 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로723</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 257-31</parcelAddr>
+    <lat>35.1571473</lat>
+    <lon>129.0584032</lon>
+    <conBike>1</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>국민건강보험 부산진지사 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로798</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 874-14</parcelAddr>
+    <lat>35.1628058</lat>
+    <lon>129.0635993</lon>
+    <conBike>1</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동 의대역 3번출구(세연정) 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로554</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 221-2</parcelAddr>
+    <lat>35.1535969</lat>
+    <lon>129.0326928</lon>
+    <conBike>1</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산은행 가야동 지점 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로610</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 378-11</parcelAddr>
+    <lat>35.1547224</lat>
+    <lon>129.038535</lon>
+    <conBike>1</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>가야역 2번출구 옆</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로649</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 45-3</parcelAddr>
+    <lat>35.1561102</lat>
+    <lon>129.0426641</lon>
+    <conBike>1</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>양정역 1번출구 옆</bikeAddr>
+    <roadAddr>부산광역시 부산진구 동평로424</roadAddr>
+    <parcelAddr>부산광역시 부산진구 양정동 369-21</parcelAddr>
+    <lat>35.1728814</lat>
+    <lon>129.0707672</lon>
+    <conBike>1</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>개금골목시장 후문</bikeAddr>
+    <roadAddr>부산광역시 부산진구 냉정로227</roadAddr>
+    <parcelAddr>부산광역시 부산진구 개금동 171-48</parcelAddr>
+    <lat>35.1511861</lat>
+    <lon>129.0245793</lon>
+    <conBike>2</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>가야역 4번 출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로641</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 50-38</parcelAddr>
+    <lat>35.1559926</lat>
+    <lon>129.0418712</lon>
+    <conBike>1</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>당감2동  중앙경로당</bikeAddr>
+    <roadAddr>부산광역시 부산진구 마철로65</roadAddr>
+    <parcelAddr>부산광역시 부산진구 당감동 817-1</parcelAddr>
+    <lat>35.1577845</lat>
+    <lon>129.0447072</lon>
+    <conBike>1</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>연지동  국악원 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 국악로2</roadAddr>
+    <parcelAddr>부산광역시 부산진구 연지동 219-2</parcelAddr>
+    <lat>35.1713738</lat>
+    <lon>129.0543865</lon>
+    <conBike>2</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면 롯데백화점 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로772</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 503-15</parcelAddr>
+    <lat>35.1568124</lat>
+    <lon>129.0588155</lon>
+    <conBike>2</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>유림더블루S 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 신천대로7</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 892-22</parcelAddr>
+    <lat>35.1500039</lat>
+    <lon>129.0638464</lon>
+    <conBike>1</conBike>
+    <inYear>2013</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>개금역 1번 출구 앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로454</roadAddr>
+    <parcelAddr>부산광역시 부산진구 개금동 503-4</parcelAddr>
+    <lat>35.1529195</lat>
+    <lon>129.0216916</lon>
+    <conBike>1</conBike>
+    <inYear>2014</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범일역 12번 출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 범일로154번길</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천동 164-3</parcelAddr>
+    <lat>35.1486628</lat>
+    <lon>129.051551</lon>
+    <conBike>1</conBike>
+    <inYear>2015</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범천2동  창공원 입구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 신암로56</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천동 1258-41</parcelAddr>
+    <lat>35.1471087</lat>
+    <lon>129.0554946</lon>
+    <conBike>1</conBike>
+    <inYear>2015</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부산진구청</bikeAddr>
+    <roadAddr>부산광역시 부산진구 시민공원로30</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부암1동  666-16</parcelAddr>
+    <lat>35.174464</lat>
+    <lon>129.0384701</lon>
+    <conBike>3</conBike>
+    <inYear>1999</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부암역 6번출구(E/V) 옆</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로719</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 368-12</parcelAddr>
+    <lat>35.1576534</lat>
+    <lon>129.0500726</lon>
+    <conBike>1</conBike>
+    <inYear>1999</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>개금역 4번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로442</roadAddr>
+    <parcelAddr>부산광역시 부산진구 개금동 487-2</parcelAddr>
+    <lat>35.1545019</lat>
+    <lon>129.0334678</lon>
+    <conBike>3</conBike>
+    <inYear>1999</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>가야GS앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로600</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야1동 377-10</parcelAddr>
+    <lat>35.1549176</lat>
+    <lon>129.0416175</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면로터리 11번 출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 새싹로136</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부암동 15-12</parcelAddr>
+    <lat>35.1684843</lat>
+    <lon>129.0511339</lon>
+    <conBike>2</conBike>
+    <inYear>1999</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>양정역 9번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로930</roadAddr>
+    <parcelAddr>부산광역시 부산진구 양정동 408</parcelAddr>
+    <lat>35.1727118</lat>
+    <lon>129.0715027</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>전포역 7번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 전포대로195</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 689-6</parcelAddr>
+    <lat>35.1541253</lat>
+    <lon>129.0650579</lon>
+    <conBike>3</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>전포역 2번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 전포대로174-1</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 362-37</parcelAddr>
+    <lat>35.1521105</lat>
+    <lon>129.0657933</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>전포역 6,8번출구 사이</bikeAddr>
+    <roadAddr>부산광역시 부산진구 전포대로190</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 345-6</parcelAddr>
+    <lat>35.1537116</lat>
+    <lon>129.0657648</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>전포역 8번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 전포대로190</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 345-6</parcelAddr>
+    <lat>35.1537116</lat>
+    <lon>129.0657648</lon>
+    <conBike>2</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>가야시장</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로667</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야1동 3-11</parcelAddr>
+    <lat>35.1565485</lat>
+    <lon>129.0447265</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>가야역 4번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로650</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 15-13</parcelAddr>
+    <lat>35.1545019</lat>
+    <lon>129.0334678</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동 의대역 2번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로554</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 236-4</parcelAddr>
+    <lat>35.1535969</lat>
+    <lon>129.0326928</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범내골역 5번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로612</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천동 948-4</parcelAddr>
+    <lat>35.1472621</lat>
+    <lon>129.0600202</lon>
+    <conBike>1</conBike>
+    <inYear>2001</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>양정역 2번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로930</roadAddr>
+    <parcelAddr>부산광역시 부산진구 양정동 408</parcelAddr>
+    <lat>35.1727118</lat>
+    <lon>129.0715027</lon>
+    <conBike>1</conBike>
+    <inYear>2002</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면 신한은행</bikeAddr>
+    <roadAddr>부산광역시 부산진구 새싹로6</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 260-47</parcelAddr>
+    <lat>35.1587254</lat>
+    <lon>129.0587486</lon>
+    <conBike>5</conBike>
+    <inYear>2006</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면 올림푸스앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로786</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 490-2</parcelAddr>
+    <lat>35.1573742</lat>
+    <lon>129.0575062</lon>
+    <conBike>2</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면역 6번출구 뒤</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로722-2</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 156-51</parcelAddr>
+    <lat>35.1571657</lat>
+    <lon>129.0597052</lon>
+    <conBike>1</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면역 10번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 서전로1</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 139-3</parcelAddr>
+    <lat>35.1579735</lat>
+    <lon>129.0599923</lon>
+    <conBike>2</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면역 15번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로743</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 260-1</parcelAddr>
+    <lat>35.159017</lat>
+    <lon>129.0597259</lon>
+    <conBike>1</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부전역 4번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 중앙대로722-2</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 156-51</parcelAddr>
+    <lat>35.1571657</lat>
+    <lon>129.0597052</lon>
+    <conBike>1</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부전역 2번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 동성로154</roadAddr>
+    <parcelAddr>부산광역시 부산진구 전포동 876-7</parcelAddr>
+    <lat>35.1617576</lat>
+    <lon>129.0628634</lon>
+    <conBike>1</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>부암역 4번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로725</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부암동 706-3</parcelAddr>
+    <lat>35.1579946</lat>
+    <lon>129.0509507</lon>
+    <conBike>1</conBike>
+    <inYear>2008</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동 의대역 6번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로549</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 251-1</parcelAddr>
+    <lat>35.1545019</lat>
+    <lon>129.0334678</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>가야농협 앞 육교 밑</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로597</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 56-2</parcelAddr>
+    <lat>35.1551502</lat>
+    <lon>129.0369984</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>범내골역 6번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 황령대로1</roadAddr>
+    <parcelAddr>부산광역시 부산진구 범천동 856-3</parcelAddr>
+    <lat>35.1478659</lat>
+    <lon>129.0600368</lon>
+    <conBike>1</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>영어마을앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로734</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 389-25</parcelAddr>
+    <lat>35.156842</lat>
+    <lon>129.0520642</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>동 의대 4번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로557</roadAddr>
+    <parcelAddr>부산광역시 부산진구 가야동 251-6</parcelAddr>
+    <lat>35.1549879</lat>
+    <lon>129.0324602</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>개금역 2번출구</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로451</roadAddr>
+    <parcelAddr>부산광역시 부산진구 개금동 511-1</parcelAddr>
+    <lat>35.153664</lat>
+    <lon>129.0215845</lon>
+    <conBike>2</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면 한솔폴라리스앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 가야대로754</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 505-6</parcelAddr>
+    <lat>35.1571237</lat>
+    <lon>129.0538821</lon>
+    <conBike>5</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>서면 KB앞</bikeAddr>
+    <roadAddr>부산광역시 부산진구 새싹로2</roadAddr>
+    <parcelAddr>부산광역시 부산진구 부전동 260-5</parcelAddr>
+    <lat>35.1584691</lat>
+    <lon>129.0589834</lon>
+    <conBike>1</conBike>
+    <inYear>2009</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-605-4554</managerTel>
+    <manager>부산광역시 부산진구청</manager>
+    <pubdata>2016-09-01</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-60</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 감천1동 41-2번지 일원(동원가스 맞은편)</parcelAddr>
+    <lat>35.0860100</lat>
+    <lon>129.0069535</lon>
+    <conBike>10</conBike>
+    <inYear>2013</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-57</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 감천1동 824-13번지 일원(옥천초교 육교밑)</parcelAddr>
+    <lat>35.0929724</lat>
+    <lon>128.9937749</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-61</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 감천1동  112번지 일원(한빛피싱마트옆)</parcelAddr>
+    <lat>35.0846199</lat>
+    <lon>129.0082769</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-55</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정3동 964-19번지 일원(뉴코아아울렛)</parcelAddr>
+    <lat>35.0989099</lat>
+    <lon>128.9937926</lon>
+    <conBike>5</conBike>
+    <inYear>2013</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-34</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정3동 968-1번지 일원(괴정역 10번출구)</parcelAddr>
+    <lat>35.0998202</lat>
+    <lon>128.9933475</lon>
+    <conBike>7</conBike>
+    <inYear>2013</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-56</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정3동 1009-22번지 일원(괴정역 10번출구 농협앞)</parcelAddr>
+    <lat>35.1001338</lat>
+    <lon>128.9937891</lon>
+    <conBike>5</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-52</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정1동 971-10번지 일원(괴정역 4번출구 승강기옆)</parcelAddr>
+    <lat>35.0999084</lat>
+    <lon>128.9929299</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-16</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정1동 70-2번지 일원(괴정역 6번출구앞)</parcelAddr>
+    <lat>35.0999084</lat>
+    <lon>128.9929299</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-31</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정2동 308-1번지 일원(괴정초등학교앞)</parcelAddr>
+    <lat>35.1031640</lat>
+    <lon>128.9995911</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-33</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정1동 1000-2번지 일원(괴정역 3번 출구옆)</parcelAddr>
+    <lat>35.1002857</lat>
+    <lon>128.9927055</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-37</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정2동 319-2번지 일원(대티역 2번출구옆)</parcelAddr>
+    <lat>35.1029486</lat>
+    <lon>128.9997774</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-32</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정1동 1040-31번지 일원(사하도서관앞)</parcelAddr>
+    <lat>35.1030899</lat>
+    <lon>128.9913128</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-36</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 괴정4동 578-1번지 일원(사하역 2번출구)</parcelAddr>
+    <lat>35.0992734</lat>
+    <lon>128.9821385</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-39</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 680-2번지 일원(다대씨파크 활어회센터앞)</parcelAddr>
+    <lat>35.0551076</lat>
+    <lon>128.9719434</lon>
+    <conBike>20</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-54</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대2동 1591번지 일원(다대항배후부지 주민체육시설입구)</parcelAddr>
+    <lat>35.0599647</lat>
+    <lon>128.9837168</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-62</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대2동 33-2번지 일원(서원마트앞)</parcelAddr>
+    <lat>35.0639887</lat>
+    <lon>128.9820161</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-15</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 1543-2번지 일원(다대노을정 휴게소)</parcelAddr>
+    <lat>35.0510203</lat>
+    <lon>128.9591718</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-14</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 285-2번지 일원(다대초등학교 건너편)</parcelAddr>
+    <lat>35.0606874</lat>
+    <lon>128.9743672</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-29</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 1580번지 일원(두송중학교내)</parcelAddr>
+    <lat>35.0501401</lat>
+    <lon>128.9659854</lon>
+    <conBike>30</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-58</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 1548-19번지 일원(다대1동 우체국앞)</parcelAddr>
+    <lat>35.0501401</lat>
+    <lon>128.9659854</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-22</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대2동 1586번지 일원(통일아시아드공원입구)</parcelAddr>
+    <lat>35.0590412</lat>
+    <lon>128.9802497</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-35</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 당리동 316-25번지 일원(당리역 1번출구 입간판옆)</parcelAddr>
+    <lat>35.1040468</lat>
+    <lon>128.9730732</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-42</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 당리동 316-31번지 일원(당리역 1번출구 환풍구옆)</parcelAddr>
+    <lat>35.1042280</lat>
+    <lon>128.9728367</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-43</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 623-44번지 일원(당리역 4번출구앞)</parcelAddr>
+    <lat>35.1034147</lat>
+    <lon>128.9733567</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-13</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 당리동 317-16번지 일원(사하구청 주차장내)</parcelAddr>
+    <lat>35.1043500</lat>
+    <lon>128.9750665</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-10</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 신평2동 646번지 일원(신평역 1번출구)</parcelAddr>
+    <lat>35.0923262</lat>
+    <lon>128.9613598</lon>
+    <conBike>40</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-12</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 신평2동 646번지 일원(신평역 4번출구)</parcelAddr>
+    <lat>35.0923262</lat>
+    <lon>128.9613598</lon>
+    <conBike>30</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-11</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 신평2동 646번지 일원(신평역 6번출구)</parcelAddr>
+    <lat>35.0923262</lat>
+    <lon>128.9613598</lon>
+    <conBike>30</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-51</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 신평2동 646번지 일원(신평역 9번출구)</parcelAddr>
+    <lat>35.0923262</lat>
+    <lon>128.9613598</lon>
+    <conBike>80</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-9</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 신평2동 646번지 일원(신평역 9번출구)</parcelAddr>
+    <lat>35.0923262</lat>
+    <lon>128.9613598</lon>
+    <conBike>37</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-47</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 1504-16번지 일원(신평장림협업화단지내 대광케이블㈜앞)</parcelAddr>
+    <lat>35.0709114</lat>
+    <lon>128.9549053</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-46</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 장림2동 1088-12번지 일원(신평장림협업화단지내 대영정기앞)</parcelAddr>
+    <lat>35.0777211</lat>
+    <lon>128.9529775</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-44</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 장림1동 1086-1번지 일원(신평장림협업화단지내 대일피혁앞)</parcelAddr>
+    <lat>35.0777211</lat>
+    <lon>128.9529775</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-45</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 장림1동 1086-8번지 일원(신평장림협업화단지내 수남상사㈜앞)</parcelAddr>
+    <lat>35.0767072</lat>
+    <lon>128.9537496</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-48</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대1동 1504-5번지 일원(신평장림협업화단지내 해성공업앞)</parcelAddr>
+    <lat>35.0685197</lat>
+    <lon>128.9560494</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-59</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 장림2동 1089-4번지 일원(신평장림협업화단지 도금조합 서한공업 SG사업부앞)</parcelAddr>
+    <lat>35.0777211</lat>
+    <lon>128.9529775</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-63</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 신평2동 666번지 일원(강변대로 66호광장 을숙도대로 입구)</parcelAddr>
+    <lat>35.0857870</lat>
+    <lon>128.9542134</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-8</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 1173번지 일원(가락타운 201동 맞은편)</parcelAddr>
+    <lat>35.1012451</lat>
+    <lon>128.9561944</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-40</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 592-1번지 일원(삼성메디컬치과앞)</parcelAddr>
+    <lat>35.1058872</lat>
+    <lon>128.9638570</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-27</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 592-2번지 일원(주노빌딩앞)</parcelAddr>
+    <lat>35.1058866</lat>
+    <lon>128.9640575</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-17</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 528-11번지 일원(삼성생명빌딩앞)</parcelAddr>
+    <lat>35.1066580</lat>
+    <lon>128.9676823</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-18</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 526-11번지 일원(하단오거리 아리따움앞)</parcelAddr>
+    <lat>35.1065914</lat>
+    <lon>128.9670505</lon>
+    <conBike>20</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-21</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 1161-3번지 일원(하단2동 주민센터내)</parcelAddr>
+    <lat>35.1146068</lat>
+    <lon>128.9605219</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-1</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 474번지 일원(하단2동 주민센터앞 육교)</parcelAddr>
+    <lat>35.1144897</lat>
+    <lon>128.9610027</lon>
+    <conBike>21</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-28</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 525-22번지 일원(해운대신대구탕앞)</parcelAddr>
+    <lat>35.1065922</lat>
+    <lon>128.9642495</lon>
+    <conBike>20</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-2</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 525-2번지 일원(정우할인마트앞)</parcelAddr>
+    <lat>35.1065915</lat>
+    <lon>128.9638254</lon>
+    <conBike>16</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-4</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 592-6번지 일원(하단역 2번출구앞)</parcelAddr>
+    <lat>35.1058856</lat>
+    <lon>128.9644884</lon>
+    <conBike>12</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-19</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 525-2번지 일원(하단역 3번출구앞)</parcelAddr>
+    <lat>35.1065915</lat>
+    <lon>128.9638254</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-3</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 526-10번지 일원(하단역 5번출구 대림약국앞)</parcelAddr>
+    <lat>35.1065343</lat>
+    <lon>128.9666298</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-5</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 589-14번지 일원(하단역 6번출구앞)</parcelAddr>
+    <lat>35.1059143</lat>
+    <lon>128.9668778</lon>
+    <conBike>15</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-6</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 589-22번지 일원(하단역 8번출구)</parcelAddr>
+    <lat>35.1059355</lat>
+    <lon>128.9676284</lon>
+    <conBike>8</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-49</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 592-9번지 일원(하단역 2번출구 대가야앞)</parcelAddr>
+    <lat>35.1059009</lat>
+    <lon>128.9652165</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-7</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 599번지 일원(하단역 공영주차장내)</parcelAddr>
+    <lat>35.1045998</lat>
+    <lon>128.9640572</lon>
+    <conBike>20</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-50</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 525-23번지 일원(하단역 1번출구 참여성병원앞)</parcelAddr>
+    <lat>35.1066428</lat>
+    <lon>128.9643387</lon>
+    <conBike>7</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-41</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단1동 617-12번지 일원(하단역 12번출구앞)</parcelAddr>
+    <lat>35.1056168</lat>
+    <lon>128.9681606</lon>
+    <conBike>7</conBike>
+    <inYear>2012</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-64</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 1161-2번지 일원(강변대로 가락타운 103동앞)</parcelAddr>
+    <lat>35.1125119</lat>
+    <lon>128.9591079</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-65</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 1157-10번지 일원(SK뷰 105동 강변대로 쉼터)</parcelAddr>
+    <lat>35.1174607</lat>
+    <lon>128.9604159</lon>
+    <conBike>10</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-66</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 1163번지 일원(낙동강하구둑 나루쉼터내)</parcelAddr>
+    <lat>35.1067056</lat>
+    <lon>128.9572950</lon>
+    <conBike>10</conBike>
+    <inYear>2011</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-67</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 1150-2번지 일원(낙동강 물문화관 광장)</parcelAddr>
+    <lat>35.1087252</lat>
+    <lon>128.9474598</lon>
+    <conBike>15</conBike>
+    <inYear>2012</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-68</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 하단2동 1150-2번지 일원(낙동강 물문화관 입구)</parcelAddr>
+    <lat>35.1087252</lat>
+    <lon>128.9474598</lon>
+    <conBike>15</conBike>
+    <inYear>2011</inYear>
+    <inFit>단독형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사하구-69</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 사하구 다대동 482-3번지(다대포해변공원 관리센터 옆)</parcelAddr>
+    <lat>35.0470059</lat>
+    <lon>128.9677944</lon>
+    <conBike>10</conBike>
+    <inYear>2016</inYear>
+    <inFit>거치형</inFit>
+    <managerTel>051-220-4554</managerTel>
+    <manager>부산광역시 사하구</manager>
+    <pubdata>2016-09-29</pubdata>
+  </row>
+  <row>
+    <bikeAddr>삼락동 삼락천로 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로333번길 72</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 393-2</parcelAddr>
+    <lat>35.1751237</lat>
+    <lon>128.9802095</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>삼락동 삼락중학교 내</bikeAddr>
+    <roadAddr>부산광역시 사상구 삼덕로5번길 151</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 380-17</parcelAddr>
+    <lat>35.1815986</lat>
+    <lon>128.9782813</lon>
+    <conBike>87</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 수관교주변</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 삼락동사무소 맞은편</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 공원관리사무소옆</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>8</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 감전배수장 부근</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 남해대교 부근</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 감전IC 부근</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모라1동주민센터 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 백양대로 952</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 1343</parcelAddr>
+    <lat>35.1910975</lat>
+    <lon>128.9923479</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>낙동제방 연육교 엘리베이터 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로1231</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 617-3</parcelAddr>
+    <lat>35.1700132</lat>
+    <lon>128.9765849</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모라1동 신모라사거리 궁전빌딩 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 백양대로 893</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 508-2</parcelAddr>
+    <lat>35.1858683</lat>
+    <lon>128.9907263</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모라1동 모라역 2번출구쪽</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로500번길 5</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 986-8</parcelAddr>
+    <lat>35.1889433</lat>
+    <lon>128.9886972</lon>
+    <conBike>8</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모라1동 모라역 2번출구쪽</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 504</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 986-3</parcelAddr>
+    <lat>35.1892228</lat>
+    <lon>128.9887983</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모라1동 모라역 2번출구쪽</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 504</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 986-3</parcelAddr>
+    <lat>35.1892228</lat>
+    <lon>128.9887983</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모라1동 모라 리버빌아파트 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 512</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 991</parcelAddr>
+    <lat>35.1898276</lat>
+    <lon>128.9892503</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모덕역 1번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 삼덕로45번길 142</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 257-1</parcelAddr>
+    <lat>35.1801962</lat>
+    <lon>128.9837134</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>모덕역 3번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 399</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 257-2</parcelAddr>
+    <lat>35.1804288</lat>
+    <lon>128.985049</lon>
+    <conBike>8</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>덕포역 2번 출구쪽</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 316</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 416-14</parcelAddr>
+    <lat>35.1726889</lat>
+    <lon>128.983781</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>덕포역 2번 출구와 4번출구 사이</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 316</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 416-14</parcelAddr>
+    <lat>35.1726889</lat>
+    <lon>128.983781</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>덕포역 4번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 삼덕로73번길 9-8</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 404-7</parcelAddr>
+    <lat>35.1743539</lat>
+    <lon>128.9847594</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>덕포동 월드크리닝 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 덕상로 1</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 785-5</parcelAddr>
+    <lat>35.1717985</lat>
+    <lon>128.9884073</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>덕포역 1번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 317</roadAddr>
+    <parcelAddr>부산광역시 사상구 덕포동 419-22</parcelAddr>
+    <lat>35.1731403</lat>
+    <lon>128.9834769</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 시떼관 앞(창진초등학교 부근)</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로223번길 100</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 519-1</parcelAddr>
+    <lat>35.1669719</lat>
+    <lon>128.9784805</lon>
+    <conBike>11</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 경전철 르네시떼역</bikeAddr>
+    <roadAddr>부산광역시 사상구 광장로 9</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 572-17</parcelAddr>
+    <lat>35.1630948</lat>
+    <lon>128.9773923</lon>
+    <conBike>40</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 르네시떼 우리은행 옆</bikeAddr>
+    <roadAddr>부산광역시 사상구 광장로 7</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 529-1</parcelAddr>
+    <lat>35.1643625</lat>
+    <lon>128.9780222</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사상시외버스 터미널 입구(롯데리아)</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 201</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 533</parcelAddr>
+    <lat>35.1632698</lat>
+    <lon>128.9824975</lon>
+    <conBike>30</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 사상역 3번 출구쪽</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 201</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 534-2</parcelAddr>
+    <lat>35.1631673</lat>
+    <lon>128.9838046</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 사상역 3번 출구쪽</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 201</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 534-2</parcelAddr>
+    <lat>35.1631673</lat>
+    <lon>128.9838046</lon>
+    <conBike>25</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 경전철 사상역(자전거대여소)</bikeAddr>
+    <roadAddr>부산광역시 사상구 광장로 83</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 572-1</parcelAddr>
+    <lat>35.160225</lat>
+    <lon>128.9821557</lon>
+    <conBike>85</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 사상역 1번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 광장로 76</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 558-2</parcelAddr>
+    <lat>35.1615686</lat>
+    <lon>128.9847557</lon>
+    <conBike>17</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>광장로 68(대궐안집 앞)</bikeAddr>
+    <roadAddr>부산광역시 사상구 광장로 68</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 559-11</parcelAddr>
+    <lat>35.161656</lat>
+    <lon>128.9838764</lon>
+    <conBike>16</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 부산산업용품 남문입구</bikeAddr>
+    <roadAddr>부산광역시 사상구 괘감로 37</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 578</parcelAddr>
+    <lat>35.1597993</lat>
+    <lon>128.9795163</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전동 감전중천공영주차장(감전천로 252)</bikeAddr>
+    <roadAddr>부산광역시 사상구 감전천로 252</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 145-1</parcelAddr>
+    <lat>35.1555651</lat>
+    <lon>128.9772079</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전동 감전중천공영주차장(감전천로 242)</bikeAddr>
+    <roadAddr>부산광역시 사상구 감전천로 242</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 145-4</parcelAddr>
+    <lat>35.1548818</lat>
+    <lon>128.9771097</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전동주민센터옆 쌈지공원</bikeAddr>
+    <roadAddr>부산광역시 사상구 새벽시장로56번길 20</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 920-10</parcelAddr>
+    <lat>35.1543151</lat>
+    <lon>128.9794166</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전동 벽산디지털밸리</bikeAddr>
+    <roadAddr>부산광역시 사상구 대동로 303</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 132-7</parcelAddr>
+    <lat>35.1545869</lat>
+    <lon>128.9861346</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례동 냉정역 5번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 352</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 187-11</parcelAddr>
+    <lat>35.1507665</lat>
+    <lon>129.0111057</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례동 냉정역 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 355</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 218-8</parcelAddr>
+    <lat>35.1516071</lat>
+    <lon>129.0114739</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례동 냉정역 4번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 362-1</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 62-2</parcelAddr>
+    <lat>35.1512956</lat>
+    <lon>129.0122987</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례동 냉정역 6번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 347</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 189-1</parcelAddr>
+    <lat>35.1513904</lat>
+    <lon>129.0103353</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례역 1번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 296</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 1163-7</parcelAddr>
+    <lat>35.1503923</lat>
+    <lon>129.0049475</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례3동 학장천 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로282번길 62</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 1162-43</parcelAddr>
+    <lat>35.1488096</lat>
+    <lon>129.0005755</lon>
+    <conBike>60</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례역 8번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로271번길 6</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 422-4</parcelAddr>
+    <lat>35.1508515</lat>
+    <lon>129.0021765</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>주례오거리 부산은행 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 1</roadAddr>
+    <parcelAddr>부산광역시 사상구 주례동 693-18</parcelAddr>
+    <lat>35.1504772</lat>
+    <lon>128.9993668</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 2번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로90번길 15-30</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 359-2</parcelAddr>
+    <lat>35.1559633</lat>
+    <lon>128.9915556</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 3번 출구</bikeAddr>
+    <roadAddr>부산광역시 사상구 학감대로 277</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 118-8</parcelAddr>
+    <lat>35.1556116</lat>
+    <lon>128.9906897</lon>
+    <conBike>16</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 3번출구 하나은행 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 학감대로 271</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 118-10</parcelAddr>
+    <lat>35.1551123</lat>
+    <lon>128.9905673</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 1번 출구(엘리베이트 타는곳)</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 95</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 136-1</parcelAddr>
+    <lat>35.1552435</lat>
+    <lon>128.9912779</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 1번 출구(버스정류장 쪽)</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 93</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 136-17</parcelAddr>
+    <lat>35.1551547</lat>
+    <lon>128.9914481</lon>
+    <conBike>8</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 1번 출구(중간)</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 93</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 136-17</parcelAddr>
+    <lat>35.1551547</lat>
+    <lon>128.9914481</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전역 1번 출구(르노삼성자동차 앞)</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로 95</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 136-1</parcelAddr>
+    <lat>35.1552435</lat>
+    <lon>128.9912779</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>괘법동 괘법초등학교</bikeAddr>
+    <roadAddr>부산광역시 사상구 사상로161번길 8</roadAddr>
+    <parcelAddr>부산광역시 사상구 괘법동 556-2</parcelAddr>
+    <lat>35.1600553</lat>
+    <lon>128.985958</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전동 사상구청 정문</bikeAddr>
+    <roadAddr>부산광역시 사상구 학감대로 242</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 138-8</parcelAddr>
+    <lat>35.1524223</lat>
+    <lon>128.9915872</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>학장동 주물공단입구 버스정류소</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 52</roadAddr>
+    <parcelAddr>부산광역시 사상구 학장동 715-11</parcelAddr>
+    <lat>35.1508329</lat>
+    <lon>128.9785374</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>학장동 학장입구 버스정류소</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로 124</roadAddr>
+    <parcelAddr>부산광역시 사상구 학장동 258-1</parcelAddr>
+    <lat>35.1497335</lat>
+    <lon>128.9859487</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>학장동 학장초등 후문 공영주차장</bikeAddr>
+    <roadAddr>부산광역시 사상구 대동로209번길 31</roadAddr>
+    <parcelAddr>부산광역시 사상구 학장동 230-6</parcelAddr>
+    <lat>35.1462919</lat>
+    <lon>128.9828476</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>엄궁동 동인요양병원 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로 792</roadAddr>
+    <parcelAddr>부산광역시 사상구 엄궁동 566-1</parcelAddr>
+    <lat>35.1312806</lat>
+    <lon>128.9728382</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>엄궁동 엄궁복국 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로 765</roadAddr>
+    <parcelAddr>부산광역시 사상구 엄궁동 475-1</parcelAddr>
+    <lat>35.1295653</lat>
+    <lon>128.9701285</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>엄궁동 농산물도매시장</bikeAddr>
+    <roadAddr>부산광역시 사상구 농산물시장로 17</roadAddr>
+    <parcelAddr>부산광역시 사상구 엄궁동 649</parcelAddr>
+    <lat>35.1285659</lat>
+    <lon>128.9661503</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>엄궁동농산물도매시장 맞은편(강변 자전거길)</bikeAddr>
+    <roadAddr>부산광역시 사상구 농산물시장로 2</roadAddr>
+    <parcelAddr>부산광역시 사상구 엄궁동 651-1</parcelAddr>
+    <lat>35.1273651</lat>
+    <lon>128.9635611</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>감전동 이마트앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 낙동대로 910</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 502-1</parcelAddr>
+    <lat>35.1415941</lat>
+    <lon>128.9707442</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>학장동 세원교차로 새마을금고 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 학감대로 129</roadAddr>
+    <parcelAddr>부산광역시 사상구 학장동 541</parcelAddr>
+    <lat>35.1425654</lat>
+    <lon>128.9877454</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>학장동 다누림센터 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 가야대로196번길 51</roadAddr>
+    <parcelAddr>부산광역시 사상구 학장동 288-12</parcelAddr>
+    <lat>35.1473324</lat>
+    <lon>128.9947443</lon>
+    <conBike>20</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>삼락동 북부소방서 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 삼덕로 17</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 402-4</parcelAddr>
+    <lat>35.1746087</lat>
+    <lon>128.9786872</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>삼락동 삼락지구대 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 모덕로 13</roadAddr>
+    <parcelAddr>부산광역시 사상구 삼락동 364-8</parcelAddr>
+    <lat>35.1830258</lat>
+    <lon>128.9780251</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>사상경찰서 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 학감대로 264</roadAddr>
+    <parcelAddr>부산광역시 사상구 감전동 136-10</parcelAddr>
+    <lat>35.1545002</lat>
+    <lon>128.9915707</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>신모라사거리 활마트 앞</bikeAddr>
+    <roadAddr>부산광역시 사상구 모라로 108</roadAddr>
+    <parcelAddr>부산광역시 사상구 모라동 510</parcelAddr>
+    <lat>35.1858452</lat>
+    <lon>128.991454</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-310-4555</managerTel>
+    <manager>부산광역시 사상구청</manager>
+    <pubdata>2016-09-21</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제대로 290(새마을금고 앞)</bikeAddr>
+    <roadAddr>부산광역시 연제구 거제대로 290</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.191842</lat>
+    <lon>129.078604</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천천 세병교 아래</bikeAddr>
+    <roadAddr>부산광역시 연제구 명륜로 18</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.196661</lat>
+    <lon>129.082328</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 시청역 1번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1416-8</parcelAddr>
+    <lat>35.179215</lat>
+    <lon>129.075920</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 시청역 4번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1400-3</parcelAddr>
+    <lat>35.179486</lat>
+    <lon>129.076498</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 시청역 5번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1444-7</parcelAddr>
+    <lat>35.180034</lat>
+    <lon>129.076646</lon>
+    <conBike>4</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 2번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-15</parcelAddr>
+    <lat>35.185374</lat>
+    <lon>129.081278</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 3번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-16</parcelAddr>
+    <lat>35.185928</lat>
+    <lon>129.081091</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 4번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-16</parcelAddr>
+    <lat>35.185490</lat>
+    <lon>129.081743</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 7번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-16</parcelAddr>
+    <lat>35.186529</lat>
+    <lon>129.081177</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 10번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 692-3</parcelAddr>
+    <lat>35.186130</lat>
+    <lon>129.082380</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 12번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 737-12</parcelAddr>
+    <lat>35.186358</lat>
+    <lon>129.082332</lon>
+    <conBike>10</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 14번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 722-67</parcelAddr>
+    <lat>35.186571</lat>
+    <lon>129.082172</lon>
+    <conBike>9</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 16번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-1</parcelAddr>
+    <lat>35.186677</lat>
+    <lon>129.081572</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 16번출구 기업은행 앞</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-1</parcelAddr>
+    <lat>35.187268</lat>
+    <lon>129.081435</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 연산역 17번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-18</parcelAddr>
+    <lat>35.186295</lat>
+    <lon>129.080666</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 1번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 65-6</parcelAddr>
+    <lat>35.194747</lat>
+    <lon>129.079683</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 2번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 69-3</parcelAddr>
+    <lat>35.194691</lat>
+    <lon>129.080225</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 3번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 76-3</parcelAddr>
+    <lat>35.195419</lat>
+    <lon>129.079482</lon>
+    <conBike>5</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 3번출구 국제신문앞</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 72-25</parcelAddr>
+    <lat>35.195672</lat>
+    <lon>129.079955</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 4번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 70-20</parcelAddr>
+    <lat>35.194996</lat>
+    <lon>129.080397</lon>
+    <conBike>5</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 6번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 125-29</parcelAddr>
+    <lat>35.196158</lat>
+    <lon>129.080567</lon>
+    <conBike>8</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 8번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 73-1</parcelAddr>
+    <lat>35.196387</lat>
+    <lon>129.080245</lon>
+    <conBike>3</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 교대역 8번출구 버스정류장</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 1424-1</parcelAddr>
+    <lat>35.196881</lat>
+    <lon>129.079696</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 거제역 1번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 18-53</parcelAddr>
+    <lat>35.188073</lat>
+    <lon>129.074786</lon>
+    <conBike>3</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 거제역 2번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 18-53</parcelAddr>
+    <lat>35.188619</lat>
+    <lon>129.075062</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 거제역 7번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 1191-5</parcelAddr>
+    <lat>35.188547</lat>
+    <lon>129.073090</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 거제역 8번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 1189-6</parcelAddr>
+    <lat>35.189040</lat>
+    <lon>129.073109</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제2동 주민센터</bikeAddr>
+    <roadAddr>부산광역시 연제구 아시아드대로22번길 19</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.187691</lat>
+    <lon>129.070304</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 종합운동장역 4번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 1499-6</parcelAddr>
+    <lat>35.191747</lat>
+    <lon>129.067566</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 종합운동장역 9번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 1191-2</parcelAddr>
+    <lat>35.191107</lat>
+    <lon>129.066777</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 물만골역 3번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1515-11</parcelAddr>
+    <lat>35.177594</lat>
+    <lon>129.085284</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 물만골역 4번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 684-14</parcelAddr>
+    <lat>35.177345</lat>
+    <lon>129.085575</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 배산역 2번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1805-3</parcelAddr>
+    <lat>35.173506</lat>
+    <lon>129.096179</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 배산역 3번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1805-3</parcelAddr>
+    <lat>35.173402</lat>
+    <lon>129.095799</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 배산역 5번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1800-2</parcelAddr>
+    <lat>35.173517</lat>
+    <lon>129.094910</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제대로 육교밑 철로측</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 617-30</parcelAddr>
+    <lat>35.182986</lat>
+    <lon>129.069868</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제대로 육교밑(부산은행 앞)</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 585-37</parcelAddr>
+    <lat>35.182709</lat>
+    <lon>129.070306</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제3동 주민센터 앞</bikeAddr>
+    <roadAddr>부산광역시 연제구 거제시장로22번길 70</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.184134</lat>
+    <lon>129.073037</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천천 제방도로 한양1차아파트 1동 뒤</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 동래구 안락동 1063-25</parcelAddr>
+    <lat>35.190338</lat>
+    <lon>129.105851</lon>
+    <conBike>4</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제대로 198 현대아파트 앞</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 842-1</parcelAddr>
+    <lat>35.185544</lat>
+    <lon>129.071684</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제4동주민센터 앞</bikeAddr>
+    <roadAddr>부산광역시 연제구 해맞이로 53</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.179181</lat>
+    <lon>129.067941</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>과정로 112(베스킨라빈스 앞)</bikeAddr>
+    <roadAddr>부산광역시 연제구 과정로 112</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.181350</lat>
+    <lon>129.107249</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>(구)거제1동 주민센터 앞</bikeAddr>
+    <roadAddr>부산광역시 연제구 명륜로2번길 9</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.194951</lat>
+    <lon>129.080791</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>온천천공원길 74(온천천자전거대여소)</bikeAddr>
+    <roadAddr>부산광역시 연제구 온천천공원길 74</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.193347</lat>
+    <lon>129.088880</lon>
+    <conBike>7</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>중앙대로 1073(전국교수공제회 앞)</bikeAddr>
+    <roadAddr>부산광역시 연제구 중앙대로 1073</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.183861</lat>
+    <lon>129.079830</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제1동 태경썬샤인아파트 앞 자전거도로</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 155-1</parcelAddr>
+    <lat>35.198010</lat>
+    <lon>129.081064</lon>
+    <conBike>18</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>연제구청 청사내</bikeAddr>
+    <roadAddr>부산광역시 연제구 연제로 2</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.176270</lat>
+    <lon>129.079396</lon>
+    <conBike>3</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>연산6동 주민센터</bikeAddr>
+    <roadAddr>부산광역시 연제구 쌍미천로52번길 2</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.177467</lat>
+    <lon>129.089641</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 거제역 6번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 463-7</parcelAddr>
+    <lat>35.189307</lat>
+    <lon>129.074566</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>중앙대로 1064(새항운병원 앞)</bikeAddr>
+    <roadAddr>부산광역시 연제구 중앙대로 1064</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.183043</lat>
+    <lon>129.079355</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>도시철도 종합운동장역 7번출구</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 거제동 1073-4</parcelAddr>
+    <lat>35.190594</lat>
+    <lon>129.067182</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>중앙대로 1046(부산은행연제지점 앞)</bikeAddr>
+    <roadAddr></roadAddr>
+    <parcelAddr>부산광역시 연제구 연산동 1327-4</parcelAddr>
+    <lat>35.181495</lat>
+    <lon>129.078106</lon>
+    <conBike>2</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+  <row>
+    <bikeAddr>거제1동 주민센터</bikeAddr>
+    <roadAddr>부산광역시 연제구 법원북로 88</roadAddr>
+    <parcelAddr></parcelAddr>
+    <lat>35.191945</lat>
+    <lon>129.075725</lon>
+    <conBike>1</conBike>
+    <inYear></inYear>
+    <inFit></inFit>
+    <managerTel>051-665-4530</managerTel>
+    <manager>부산광역시 연제구청 교통행정과</manager>
+    <pubdata>2016-09-02</pubdata>
+  </row>
+</rows>
